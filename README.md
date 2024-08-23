@@ -1,0 +1,2 @@
+<h3>Welcome to my portfolio!</h3>
+Here, you'll find a diverse collection of projects that illustrate my expertise in web development. Each project showcases my ability to design and build user-friendly applications. From interactive web apps to functional tools, every project is crafted with a focus on both performance and visual appeal. Explore these examples to see how I leverage modern web technologies to create engaging, intuitive solutions that address real-world challenges. 
